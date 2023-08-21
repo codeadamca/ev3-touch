@@ -4,7 +4,11 @@ A Python snippet utilizing the LEGO EV3 touch sensor, the LEGO EV3 Brick and [Py
 
 This example activates a motor when the touch sensor is pushed.
 
-The [Documentation for Pybricks](https://docs.pybricks.com/en/latest/ev3devices.html) is really helpful.
+***
+
+## Repo Resources
+
+- [Pybricks - Documentation](https://docs.pybricks.com/en/latest/ev3devices.html)
 
 <a href="https://codeadam.ca">
 <img src="https://codeadam.ca/images/code-block.png" width="100">
